@@ -8,10 +8,10 @@ feature available :
 - Scan valid code from trash bin
 
 installation guide :
-Database: To configure database, click functions.php and change the name of username, password and database name.
-Software :
+1. Database: To configure database, click functions.php and change the name of username, password and database name.
+2. Software :
 Copy folder 'skripsi' to your htdocs directory (default : C:\xampp\htdocs)
-Hardware :
+3. Hardware :
 Use Arduino IDE
 - Change the SSID and password name to your access point
 - Use nodemcu board
