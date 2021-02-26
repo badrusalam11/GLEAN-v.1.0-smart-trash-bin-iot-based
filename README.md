@@ -21,6 +21,7 @@ Copy folder 'skripsi' to your htdocs directory (default : C:\xampp\htdocs)
 
 ![Alt text](https://raw.githubusercontent.com/badrusalam11/GLEAN-v.1.0-smart-trash-bin-iot-based/main/Rangkaian%20GLEAN_revisi.jpg)
 ![Alt text](https://raw.githubusercontent.com/badrusalam11/GLEAN-v.1.0-smart-trash-bin-iot-based/main/tempat%20sampah%20tampak%20depan.jpg)
+![Alt text](https://raw.githubusercontent.com/badrusalam11/GLEAN-v.1.0-smart-trash-bin-iot-based/main/login-web-glean.JPG)
 
 - preview website : https://gleantrashbin.000webhostapp.com
 - demo video : https://youtu.be/vjbc9vlF0cI
