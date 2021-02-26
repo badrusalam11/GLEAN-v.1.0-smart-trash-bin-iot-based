@@ -19,6 +19,7 @@ Copy folder 'skripsi' to your htdocs directory (default : C:\xampp\htdocs)
 - Make a schematic wiring as shown in the figure
 - Upload Glean_trashbin.ino to hardware 1, and Glean_trashbin_2 to hardware 2.
 
+![Alt text](https://raw.githubusercontent.com/badrusalam11/GLEAN-v.1.0-smart-trash-bin-iot-based/main/Rangkaian%20GLEAN_revisi.jpg)
 
 preview website : gleantrashbin.000webhostapp.com
 demo video : 
