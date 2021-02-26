@@ -12,7 +12,7 @@ installation guide :
 2. Software :
 Copy folder 'skripsi' to your htdocs directory (default : C:\xampp\htdocs)
 3. Hardware :
-Use Arduino IDE
+- Use Arduino IDE
 - Change the SSID and password name to your access point
 - Use nodemcu board
 - Install library : include <ArduinoJson.h> #include <ESP8266WiFi.h> #include <ESP8266HTTPClient.h> #include <Servo.h>
