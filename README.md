@@ -19,3 +19,6 @@ Copy folder 'skripsi' to your htdocs directory (default : C:\xampp\htdocs)
 - Make a schematic wiring as shown in the figure
 - Upload Glean_trashbin.ino to hardware 1, and Glean_trashbin_2 to hardware 2.
 
+
+preview website : gleantrashbin.000webhostapp.com
+demo video : 
